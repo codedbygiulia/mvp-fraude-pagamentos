@@ -49,7 +49,7 @@ O Random Forest alcançou apenas **9 falsos negativos** em 2.464 fraudes no test
 ## Como Executar
 
 1. Abra o notebook no Google Colab:
-   - Acesse [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1M27iTFLXm-MBzv1tXoaTDxvq4NPEI9V1?usp=sharing))
+   - Acesse https://colab.research.google.com/drive/1M27iTFLXm-MBzv1tXoaTDxvq4NPEI9V1?usp=sharing
    - **File → Open notebook → GitHub** → cole a URL deste repositório
 2. Clique em **Runtime → Run all**
 3. O dataset é carregado automaticamente via URL do repositório
