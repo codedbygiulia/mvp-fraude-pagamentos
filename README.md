@@ -59,6 +59,7 @@ O Random Forest alcançou apenas **9 falsos negativos** em 2.464 fraudes no test
 ```
 ├── README.md
 ├── fraud_dataset_sample_50000.csv
+├── Cópia_de_Trabalho_Giulia_Barros_dos_Reis_Análise_de_Dados_e_Boas_Práticas_(40530010055_20260_01).ipynb
 └── Trabalho_Giulia_Barros_dos_Reis_Análise_de_Dados_e_Boas_Práticas.ipynb
 ```
 
