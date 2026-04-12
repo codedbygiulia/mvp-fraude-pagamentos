@@ -62,7 +62,7 @@ O Random Forest alcançou apenas **9 falsos negativos** em 2.464 fraudes no test
 ├── Cópia_de_Trabalho_Giulia_Barros_dos_Reis_Análise_de_Dados_e_Boas_Práticas_(40530010055_20260_01).ipynb
 └── Trabalho_Giulia_Barros_dos_Reis_Análise_de_Dados_e_Boas_Práticas.ipynb
 ```
--Últimos dois arquivos são iguais. 
+- Últimos dois arquivos são iguais. 
 ## Autora
 
 **Giulia Barros dos Reis** — Matrícula 4052025001231
